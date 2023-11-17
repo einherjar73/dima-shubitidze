@@ -1,0 +1,14 @@
+@media screen and (min-width: 992px)
+{
+ .frame
+{   
+    /* width: 960px; */
+}
+
+.search-img
+{
+    display: initial;
+    width: 10px;
+    height: 10px;
+}
+}
