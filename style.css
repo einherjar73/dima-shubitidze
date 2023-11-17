@@ -7,6 +7,12 @@ body
     margin: 0;
 }
 
+.frame
+{   
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
 .header
 {
     display: flex;
@@ -31,41 +37,36 @@ a
     height: 24px;
 }
 
-.vscode-link
-{
-    color: white;  
-    font-size: 20px;    
-}
-
-.vscode-img
-{
-    width: 24px;
-    height: 24px;
-    vertical-align: middle;
-    margin-left: 13px;    
-    margin-top: 10px;    
-}
-
-.vscode-text
-{
-    position: absolute;
-    top: 11px;
-    left: 50px;
-}
-
 .menuiconimg
 {
     width: 24px;
     height: 24px;
 }
 
-.frame
+.vscode-link
 {
-    margin-left: 150px;
-    margin-right: 150px;
+    color: white;  
+    font-size: 20px;
+    margin-top: 10px;    
+}
+
+.vscode-text
+{
+    vertical-align: middle;    
+}
+
+.vscode-img
+{
+    width: 24px;
+    height: 24px;
+    margin-right: 10px;  
+    vertical-align: middle;  
 }
 
 .navigation
 {
     display: none;
 }
+
+
+
